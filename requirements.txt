@@ -1,0 +1,5 @@
+chromadb==1.5.9
+onnxruntime==1.23.2
+python-dotenv
+pypdf
+openai
